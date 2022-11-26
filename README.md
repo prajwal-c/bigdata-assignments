@@ -1,1 +1,1 @@
-# bigdata-assignments (Ineuron)
+# bigdata-assignments
